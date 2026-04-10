@@ -1,4 +1,3 @@
-Markdown
 # Indexing Performance Test - Library Management System
 
 ---

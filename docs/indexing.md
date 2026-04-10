@@ -1,6 +1,3 @@
-
-To make yours look exactly like your friend's professional report, copy and paste this into your docs/indexing.md file in VS Code. I have kept the exact formatting and structure but used your Library System details.
-
 Indexing Performance Test - Library Management System
 Database Overview
 System: Library Management System
